@@ -4,14 +4,14 @@ import React from 'react'
 
 const Card = () => {
     return (
-        <div className='flex flex-col'>
+        <div className='flex flex-col px-20 sm:px-5'>
             <div className='mb-5'>
                 <h2 className='text-5xl font-bold'>Construimos tus ideas!!</h2>
             </div>
 
             <div>
-                <p className='text-lg' >
-                    Utilizamos las nuevas tecnologías para la creación/concreción de tus proyectos ofreciendo siempre, la mejor solución.
+                <p className='text-lg font-bold' >
+                    Utilizamos las nuevas tecnologías para la creación de tus proyectos, ofreciendo siempre la mejor solución.
                 </p>
             </div>
 
